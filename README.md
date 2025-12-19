@@ -14,7 +14,7 @@ Unzip it using WinRAR or any extraction tool to a desired directory on your comp
 
 ### Step 3: Open the Project and Install Dependencies
 Open the terminal inside VS Code (or Android Studio) and Run the following commands:
-bash:
+bash: ␠␠
 flutter doctor
 flutter pub get
 
@@ -36,7 +36,7 @@ Transfer the APK to your Android device via: USB cable, File sharing, Cloud stor
 ### ATTENTION!!! 
 If Step 3 fails (for example, dependency or environment-related errors occur), please do the following:
 Move the project folder to a directory that you normally use for running Flutter projects. This ensures that the project is compatible with your existing Flutter environment and system configuration.
-After moving the project, reopen it in VS Code or Android Studio, then rerun the commands in Step 3:
-flutter doctor
-flutter pub get
+After moving the project, reopen it in VS Code or Android Studio, then rerun the commands in Step 3:␠␠
+flutter doctor␠␠
+flutter pub get␠␠
 This should resolve most environment (env) compatibility issues.
